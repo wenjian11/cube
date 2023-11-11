@@ -1,4 +1,5 @@
-﻿不到 800 行代码，彻底搞定魔方还原问题
+﻿来自https://github.com/rockcarry/cube/tree/master，写了自己的阅读理解注释
+不到 800 行代码，彻底搞定魔方还原问题
 
 VC 可以编译运行，或者用 mingw 的 gcc 编译都可以
 
